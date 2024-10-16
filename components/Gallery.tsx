@@ -22,14 +22,6 @@ const Gallery = () => {
     }
   };  
 
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "ArrowLeft") {
-      swipeImg("prv");  // Menggunakan tombol panah kiri
-    }
-    if (event.key === "ArrowRight") {
-      swipeImg("nxt");  // Menggunakan tombol panah kanan
-    }
-  });
 
   return (
     <>
