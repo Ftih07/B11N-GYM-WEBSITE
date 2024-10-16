@@ -1,0 +1,68 @@
+{
+    "gallery": [
+      {
+        "img": "gallery1.png",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery2.png",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery3.jpg",
+        "location": "Kartu member"
+      },
+      {
+        "img": "gallery4.jpg",
+        "location": "kartu member"
+      },
+      {
+        "img": "gallery5.png",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery6.png",
+        "location": "area parkir"
+      },
+      {
+        "img": "gallery7.png",
+        "location": "ruang istirahat"
+      },
+      {
+        "img": "gallery8.png",
+        "location": "ruang istirahat"
+      },
+      {
+        "img": "gallery9.png",
+        "location": "peralatan"
+      },
+      {
+        "img": "gallery10.png",
+        "location": "peralatan"
+      },
+      {
+        "img": "gallery112.png",
+        "location": "barbel"
+      },
+      {
+        "img": "gallery12.png",
+        "location": "plate beban dumbell"
+      },
+      {
+        "img": "gallery13.jpg",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery14.png",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery15.png",
+        "location": "gym zone"
+      },
+      {
+        "img": "gallery16.png",
+        "location": "loker"
+      }
+    ]
+  }
